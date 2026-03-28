@@ -1,0 +1,483 @@
+{
+	"products": [
+		{
+			"name": "Hilsa Fish 1kg",
+			"category": "Fish & Seafood",
+			"stock": 9,
+			"price": 1800.0,
+			"description": "Fresh river Hilsa fish from Padma river.",
+			"discount": 5.0,
+			"id": "FHI0001"
+		},
+		{
+			"name": "Rui Fish 1kg",
+			"category": "Fish & Seafood",
+			"stock": 20,
+			"price": 450.0,
+			"description": "Fresh water Rui fish from Jamuna river.",
+			"discount": 2.0,
+			"id": "FRU0001"
+		},
+		{
+			"name": "Chicken Broiler 1kg",
+			"category": "Meat & Poultry",
+			"stock": 28,
+			"price": 380.0,
+			"description": "Farm raised broiler chicken. Halal certified.",
+			"discount": 0.0,
+			"id": "MCH0001"
+		},
+		{
+			"name": "Beef Curry Cut 1kg",
+			"category": "Meat & Poultry",
+			"stock": 14,
+			"price": 850.0,
+			"description": "Farm raised halal beef. Halal certified.",
+			"discount": 2.0,
+			"id": "MBE0001"
+		},
+		{
+			"name": "Maggie Noodles 12 pcs pack",
+			"category": "Snacks & Confectionery",
+			"stock": 48,
+			"price": 180.0,
+			"description": "Contains 12 pieces of Maggie Noodles",
+			"discount": 1.0,
+			"id": "SMA0001"
+		},
+		{
+			"name": "Kazi Farms Duck Eggs 12pcs",
+			"category": "Dairy & Eggs",
+			"stock": 25,
+			"price": 280.0,
+			"description": "Organic duck eggs. Rich in nutrients.",
+			"discount": 0.0,
+			"id": "DKA0001"
+		},
+		{
+			"name": "Aarong UHT Liquid Milk 1L",
+			"category": "Dairy & Eggs",
+			"stock": 38,
+			"price": 90.0,
+			"description": "Pasteurized UHT milk.",
+			"discount": 0.0,
+			"id": "DAA0001"
+		},
+		{
+			"name": "White Rice 5kg",
+			"category": "Pantry Staples (rice, flour, oil, spices)",
+			"stock": 50,
+			"price": 450.0,
+			"description": "Miniket Rice, high quality white rice. Origin: Bangladesh.",
+			"discount": 3.0,
+			"id": "PWH0001"
+		},
+		{
+			"name": "Randhuni Mustard Oil 1L",
+			"category": "Pantry Staples (rice, flour, oil, spices)",
+			"stock": 35,
+			"price": 470.0,
+			"description": "Randhuni Mustard Oil, 100% pure and natural. Origin: Bangladesh.",
+			"discount": 0.0,
+			"id": "PRA0001"
+		},
+		{
+			"name": "Randhuni Red Lentils 1kg",
+			"category": "Pantry Staples (rice, flour, oil, spices)",
+			"stock": 44,
+			"price": 140.0,
+			"description": "Randhuni Red Lentils, high quality pulses. Origin: Bangladesh.",
+			"discount": 1.0,
+			"id": "PRA0002"
+		},
+		{
+			"name": "Potato Local 1kg",
+			"category": "Fresh Produce (fruits & vegetables)",
+			"stock": 60,
+			"price": 30.0,
+			"description": "Potatoes from local farms. Fresh and nutritious.",
+			"discount": 0.0,
+			"id": "FPO0001"
+		},
+		{
+			"name": "Onion Local 1kg",
+			"category": "Fresh Produce (fruits & vegetables)",
+			"stock": 55,
+			"price": 60.0,
+			"description": "Onions from local farms. Fresh and nutritious.",
+			"discount": 0.0,
+			"id": "FON0001"
+		},
+		{
+			"name": "Green Chili 250g",
+			"category": "Fresh Produce (fruits & vegetables)",
+			"stock": 40,
+			"price": 25.0,
+			"description": "From Khulna. Vibrant green chilies, perfect for adding heat to your dishes.",
+			"discount": 0.0,
+			"id": "FGR0001"
+		},
+		{
+			"name": "Banana Sagor 12pcs",
+			"category": "Fresh Produce (fruits & vegetables)",
+			"stock": 28,
+			"price": 120.0,
+			"description": "Sagor bananas, sweet and delicious. Origin: Bangladesh.",
+			"discount": 2.0,
+			"id": "FBA0001"
+		},
+		{
+			"name": "Ulfat Bread White Loaf",
+			"category": "Bakery & Bread",
+			"stock": 25,
+			"price": 60.0,
+			"description": "Fresh baked bread from Ulfat Bakery. Soft and fluffy white loaf.",
+			"discount": 0.0,
+			"id": "BUL0001"
+		},
+		{
+			"name": "U&U Cake Chocolate Small",
+			"category": "Bakery & Bread",
+			"stock": 10,
+			"price": 300.0,
+			"description": "Chocolate lava cake from U&U Co. Rich and indulgent.",
+			"discount": 5.0,
+			"id": "BU&0001"
+		},
+		{
+			"name": "Kazi Farms Frozen Nuggets 500g",
+			"category": "Frozen Foods",
+			"stock": 20,
+			"price": 250.0,
+			"description": "Chicken nuggets from Kazi Farms. Crispy and delicious. Halal certified.",
+			"discount": 0.0,
+			"id": "FKA0001"
+		},
+		{
+			"name": "Golden Harvest Frozen Paratha 20pcs",
+			"category": "Frozen Foods",
+			"stock": 18,
+			"price": 200.0,
+			"description": "Ready to cook paratha. Easy and convenient.",
+			"discount": 0.0,
+			"id": "FGH0001"
+		},
+		{
+			"name": "Marie Biscuits 200g",
+			"category": "Snacks & Confectionery",
+			"stock": 48,
+			"price": 50.0,
+			"description": "Tea biscuits",
+			"discount": 0.0,
+			"id": "SMA0001"
+		},
+		{
+			"name": "Sun Potato Chips 50g",
+			"category": "Snacks & Confectionery",
+			"stock": 69,
+			"price": 20.0,
+			"description": "Potato chips. Crispy and salty.",
+			"discount": 0.0,
+			"id": "SSU0001"
+		},
+		{
+			"name": "Cock Cola Soft Drink 1L",
+			"category": "Beverages (soft drinks, juice, water, coffee, tea)",
+			"stock": 56,
+			"price": 100.0,
+			"description": "Carbonated drink. Refreshing and delicious.",
+			"discount": 0.0,
+			"id": "BCO0001"
+		},
+		{
+			"name": "Mum Mineral Water 1L",
+			"category": "Beverages (soft drinks, juice, water, coffee, tea)",
+			"stock": 80,
+			"price": 50.0,
+			"description": "Fresh drinking water",
+			"discount": 0.0,
+			"id": "BMU0001"
+		},
+		{
+			"name": "Taaza Tea Loose 200g",
+			"category": "Beverages (soft drinks, juice, water, coffee, tea)",
+			"stock": 30,
+			"price": 120.0,
+			"description": "Premium tea leaves. Origin: Pakistan",
+			"discount": 0.0,
+			"id": "BTA0001"
+		},
+		{
+			"name": "Sunsilk Shampoo Herbal 200ml",
+			"category": "Personal Care (soap, shampoo, skincare)",
+			"stock": 25,
+			"price": 180.0,
+			"description": "Herbal shampoo, suitable for all hair types",
+			"discount": 0.0,
+			"id": "PSU0001"
+		},
+		{
+			"name": "Lux Soap 100g",
+			"category": "Personal Care (soap, shampoo, skincare)",
+			"stock": 60,
+			"price": 60.0,
+			"description": "Beauty soap",
+			"discount": 0.0,
+			"id": "PLU0001"
+		},
+		{
+			"name": "Ponds Face Wash 100ml",
+			"category": "Personal Care (soap, shampoo, skincare)",
+			"stock": 20,
+			"price": 250.0,
+			"description": "Skin care face wash. Makes skin fresh and clean.",
+			"discount": 0.0,
+			"id": "PPO0001"
+		},
+		{
+			"name": "Nirma Detergent Powder 1kg",
+			"category": "Household Essentials (cleaning supplies, paper goods)",
+			"stock": 39,
+			"price": 180.0,
+			"description": "Cloth washing powder. Origin: India.",
+			"discount": 0.0,
+			"id": "HNI0001"
+		},
+		{
+			"name": "Basundhara Toilet Tissue 4roll",
+			"category": "Household Essentials (cleaning supplies, paper goods)",
+			"stock": 30,
+			"price": 120.0,
+			"description": "Soft tissue, effective and gentle.",
+			"discount": 0.0,
+			"id": "HBA0001"
+		},
+		{
+			"name": "Gentle Baby Diapers M 40pcs",
+			"category": "Baby Products (diapers, formula, baby food)",
+			"stock": 14,
+			"price": 900.0,
+			"description": "Comfort diapers",
+			"discount": 5.0,
+			"id": "BGE0001"
+		},
+		{
+			"name": "Cerelak Baby Milk Formula 400g",
+			"category": "Baby Products (diapers, formula, baby food)",
+			"stock": 9,
+			"price": 650.0,
+			"description": "Infant formula",
+			"discount": 0.0,
+			"id": "BCE0001"
+		},
+		{
+			"name": "Wendu Cat Food 1kg",
+			"category": "Pet Supplies",
+			"stock": 11,
+			"price": 350.0,
+			"description": "Dry cat food",
+			"discount": 0.0,
+			"id": "PWE0001"
+		},
+		{
+			"name": "Wendu Dog Food 2kg",
+			"category": "Pet Supplies",
+			"stock": 10,
+			"price": 800.0,
+			"description": "Dog food pack",
+			"discount": 0.0,
+			"id": "PWE0002"
+		},
+		{
+			"name": "Walton Electric Kettle 1.5L",
+			"category": "Electronics & Appliances",
+			"stock": 8,
+			"price": 1200.0,
+			"description": "Fast boiling kettle",
+			"discount": 5.0,
+			"id": "EWA0001"
+		},
+		{
+			"name": "Walton Rice Cooker 1.8L",
+			"category": "Electronics & Appliances",
+			"stock": 6,
+			"price": 2500.0,
+			"description": "Automatic rice cooker",
+			"discount": 3.0,
+			"id": "EWA0002"
+		},
+		{
+			"name": "Polo T-Shirt Cotton L",
+			"category": "Clothing & Apparel",
+			"stock": 20,
+			"price": 400.0,
+			"description": "Comfortable cotton tshirt",
+			"discount": 0.0,
+			"id": "CPO0001"
+		},
+		{
+			"name": "Levi Jeans Denim 32",
+			"category": "Clothing & Apparel",
+			"stock": 15,
+			"price": 1200.0,
+			"description": "Blue denim jeans",
+			"discount": 0.0,
+			"id": "CLE0001"
+		},
+		{
+			"name": "Fed Frying Pan Nonstick",
+			"category": "Home & Kitchen (utensils, cookware, decor)",
+			"stock": 12,
+			"price": 900.0,
+			"description": "Non-stick pan",
+			"discount": 0.0,
+			"id": "HFE0001"
+		},
+		{
+			"name": "Mousimu Knife Set 3pcs",
+			"category": "Home & Kitchen (utensils, cookware, decor)",
+			"stock": 10,
+			"price": 600.0,
+			"description": "Kitchen knife set",
+			"discount": 0.0,
+			"id": "HMO0001"
+		},
+		{
+			"name": "Bashundhara Notebook A4 100pg",
+			"category": "Office & School Supplies",
+			"stock": 50,
+			"price": 80.0,
+			"description": "School notebook",
+			"discount": 0.0,
+			"id": "OBA0001"
+		},
+		{
+			"name": "Matador Ball Pen Blue 10pcs",
+			"category": "Office & School Supplies",
+			"stock": 70,
+			"price": 80.0,
+			"description": "Smooth writing pen",
+			"discount": 0.0,
+			"id": "OMA0001"
+		},
+		{
+			"name": "Niet Garden Hose Pipe 10m",
+			"category": "Seasonal & Outdoor (garden, holiday items, camping gear)",
+			"stock": 8,
+			"price": 700.0,
+			"description": "Flexible hose pipe",
+			"discount": 0.0,
+			"id": "SNE0001"
+		},
+		{
+			"name": "Neit Camping Tent 2 Person",
+			"category": "Seasonal & Outdoor (garden, holiday items, camping gear)",
+			"stock": 5,
+			"price": 3500.0,
+			"description": "Outdoor camping tent",
+			"discount": 5.0,
+			"id": "SNE0002"
+		},
+		{
+			"name": "Square Vitamin C Tablets",
+			"category": "Health & Wellness (vitamins, supplements)",
+			"stock": 25,
+			"price": 300.0,
+			"description": "Immune booster",
+			"discount": 0.0,
+			"id": "HSQ0001"
+		},
+		{
+			"name": "Vitaplus Protein Powder 500g",
+			"category": "Health & Wellness (vitamins, supplements)",
+			"stock": 10,
+			"price": 1800.0,
+			"description": "Fitness supplement",
+			"discount": 5.0,
+			"id": "HVI0001"
+		},
+		{
+			"name": "Tango Orange Juice 1L",
+			"category": "Beverages (soft drinks, juice, water, coffee, tea)",
+			"stock": 30,
+			"price": 120.0,
+			"description": "Fresh juice",
+			"discount": 0.0,
+			"id": "BTA0001"
+		},
+		{
+			"name": "Nestle Coffee Instant 100g",
+			"category": "Beverages (soft drinks, juice, water, coffee, tea)",
+			"stock": 20,
+			"price": 350.0,
+			"description": "Instant coffee",
+			"discount": 0.0,
+			"id": "BNE0001"
+		},
+		{
+			"name": "Igloo Ice Cream Vanilla 1L",
+			"category": "Frozen Foods",
+			"stock": 15,
+			"price": 300.0,
+			"description": "Vanilla ice cream",
+			"discount": 0.0,
+			"id": "FIG0001"
+		},
+		{
+			"name": "Shrimp Medium 500g",
+			"category": "Fish & Seafood",
+			"stock": 18,
+			"price": 600.0,
+			"description": "Fresh shrimp caught from the Bay of Bengal. Halal certified.",
+			"discount": 0.0,
+			"id": "FSH0001"
+		}
+	],
+	"invoices": [
+		{
+			"invoice_no": "#INV0x0001",
+			"date": "2026-03-17 20:17",
+			"items": ["Hilsa Fish 1kg", "Rui Fish 1kg", "Chicken Broiler 1kg"],
+			"total": "3098.80"
+		},
+		{
+			"invoice_no": "#INV0x0002",
+			"date": "2026-03-18 11:40",
+			"items": ["1x Hilsa Fish 1kg"],
+			"total": "2086.20"
+		},
+		{
+			"invoice_no": "#INV0x0003",
+			"date": "2026-03-24 19:35",
+			"items": [
+				"1x Hilsa Fish 1kg",
+				"1x Chicken Broiler 1kg",
+				"1x Maggie Noodles 12 pcs pack",
+				"2x Aarong UHT Liquid Milk 1L",
+				"1x Randhuni Red Lentils 1kg"
+			],
+			"total": "3155.90"
+		},
+		{
+			"invoice_no": "#INV0x0004",
+			"date": "2026-03-24 19:46",
+			"items": [
+				"1x Wendu Cat Food 1kg",
+				"1x Cerelak Baby Milk Formula 400g",
+				"1x Gentle Baby Diapers M 40pcs",
+				"1x Nirma Detergent Powder 1kg"
+			],
+			"total": "2482.70"
+		},
+		{
+			"invoice_no": "#INV0x0005",
+			"date": "2026-03-28 17:46",
+			"items": [
+				"1x Marie Biscuits 200g",
+				"1x Sun Potato Chips 50g",
+				"4x Cock Cola Soft Drink 1L"
+			],
+			"total": "573.40"
+		}
+	]
+}
