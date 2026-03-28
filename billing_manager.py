@@ -101,7 +101,7 @@ class BillingManager(ctk.CTkFrame):
         if self.current_filter != "All Categories":
             filtered = [p for p in filtered if p['category'] == self.current_filter]
         #Render header row for product list
-        W_ID, W_NAME, W_STOCK, W_PRICE, W_ACT = 80, 340, 80, 80, 50
+        W_ID, W_NAME, W_STOCK, W_PRICE, W_ACT = 80, 540, 80, 120, 50
         h_frame = ctk.CTkFrame(self.product_list, fg_color="#1a1a1a", height=30)
         h_frame.pack(fill="x", pady=(0, 5))
         for t, w in [("Product ID", W_ID), ("Item Name", W_NAME), ("Stock", W_STOCK), ("Price per Unit", W_PRICE), ("Add", W_ACT)]:

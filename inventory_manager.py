@@ -112,7 +112,7 @@ class InventoryManager(ctk.CTkFrame):
         if self.current_sort in sort_map:
             products.sort(key=sort_map[self.current_sort], reverse=is_reverse)
         # Render Header Row
-        W_ID, W_NAME, W_STOCK, W_PRICE, W_CAT, W_ACT = 80, 240, 80, 90, 440, 140
+        W_ID, W_NAME, W_STOCK, W_PRICE, W_CAT, W_ACT = 80, 340, 80, 90, 490, 140
         h_frame = ctk.CTkFrame(self.scrollable_frame, fg_color="#1a1a1a", corner_radius=5)
         h_frame.pack(fill="x", pady=(0, 5))
         headers = [("Product ID", W_ID), ("Item Name", W_NAME), ("Stock", W_STOCK), 

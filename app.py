@@ -13,7 +13,7 @@ class App(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("Inventory & Billing System")
-        self.geometry("1400x1050")
+        self.geometry("1600x1050")
         self.iconbitmap(r'./assets/app_icon.ico')
         ctk.set_appearance_mode("dark") 
         # Load data manager
