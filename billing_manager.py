@@ -61,14 +61,14 @@ class BillingManager(ctk.CTkFrame):
         #Buttons
         btn_f = ctk.CTkFrame(self.invoice_container, fg_color="transparent")
         btn_f.pack(fill="x", padx=15, pady=5)
-        ctk.CTkButton(btn_f, text="Generate Invoice", command=self.finalize_invoice, 
+        ctk.CTkButton(btn_f, text="Generate Invoice", image=IconManager.load_icon("invoice_icon.png", (18,18)), command=self.finalize_invoice, 
                      fg_color="#5fb68d", height=40, font=("Manrope ExtraBold", 20)).pack(fill="x", pady=5) #Generate invoice button to finalize current cart
         #Sub-Button frame for Cancel and Export options
         action_f = ctk.CTkFrame(btn_f, fg_color="transparent")
         action_f.pack(fill="x")
-        ctk.CTkButton(action_f, text="Cancel Cart", command=self.clear_cart, 
+        ctk.CTkButton(action_f, text="Cancel Cart", image=IconManager.load_icon("cancel_cart_icon.png", (16,16)), command=self.clear_cart, 
                      fg_color="#d8754e", height=32, width=120, font=("Manrope ExtraBold", 16)).pack(side="left", expand=True, padx=2)
-        ctk.CTkButton(action_f, text="Export CSV", command=self.export_csv, 
+        ctk.CTkButton(action_f, text="Export CSV", image=IconManager.load_icon("export_csv_icon.png", (16,16)), command=self.export_csv, 
                      fg_color="#1f538d", height=32, width=120, font=("Manrope ExtraBold", 16)).pack(side="left", expand=True, padx=2)
         # History Toggle Button
         self.hist_toggle_btn = ctk.CTkButton(self.invoice_container, text="View Invoice History ⬇", font=("Poppins", 14),

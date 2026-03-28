@@ -1,0 +1,7 @@
+invoice_no,date,items,total
+#INV0x0001,2026-03-17 20:17,"['Hilsa Fish 1kg', 'Rui Fish 1kg', 'Chicken Broiler 1kg']",3098.80
+#INV0x0002,2026-03-18 11:40,['1x Hilsa Fish 1kg'],2086.20
+#INV0x0003,2026-03-24 19:35,"['1x Hilsa Fish 1kg', '1x Chicken Broiler 1kg', '1x Maggie Noodles 12 pcs pack', '2x Aarong UHT Liquid Milk 1L', '1x Randhuni Red Lentils 1kg']",3155.90
+#INV0x0004,2026-03-24 19:46,"['1x Wendu Cat Food 1kg', '1x Cerelak Baby Milk Formula 400g', '1x Gentle Baby Diapers M 40pcs', '1x Nirma Detergent Powder 1kg']",2482.70
+#INV0x0005,2026-03-28 17:46,"['1x Marie Biscuits 200g', '1x Sun Potato Chips 50g', '4x Cock Cola Soft Drink 1L']",573.40
+#INV0x0006,2026-03-28 20:21,"['1x Aarong UHT Liquid Milk 1L', '1x Taaza Tea Loose 200g', '1x Chicken Broiler 1kg', '2x Rui Fish 1kg']",1832.44

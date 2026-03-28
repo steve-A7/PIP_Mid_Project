@@ -171,7 +171,7 @@ class InventoryManager(ctk.CTkFrame):
         # Save and Cancel Buttons
         btn_frame = ctk.CTkFrame(self.form_view, fg_color="transparent")
         btn_frame.pack(pady=40)
-        ctk.CTkButton(btn_frame, text="Cancel", image=IconManager.load_icon("cancel_icon.png", (16,16)), font=("Poppins", 14), fg_color="#d8754e", width=140, height=40, command=self.show_list).pack(side="left", padx=15)
+        ctk.CTkButton(btn_frame, text="Cancel", image=IconManager.load_icon("close_icon.png", (16,16)), font=("Poppins", 14), fg_color="#d8754e", width=140, height=40, command=self.show_list).pack(side="left", padx=15)
         ctk.CTkButton(btn_frame, text="Save Product", image=IconManager.load_icon("save_icon.png", (16,16)), font=("Poppins", 14), fg_color="#5fb68d", width=120, height=40, command=self.save_product).pack(side="left", padx=15)
     # Function to validate form input, save the product data to the JSON file, and refresh the product list view
     def save_product(self) -> None:
